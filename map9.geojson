@@ -44,4 +44,7 @@
 {"type":"Feature","properties":{"Name":"Cd. Obregón (FFCC)"},"geometry":{"coordinates":[-99.1718954,18.9138315],"type":"Point"},"id":4},
 {"type":"Feature","properties":{"Name":"Culiacán"},"geometry":{"coordinates":[-99.214166,20.0006029],"type":"Point"},"id":15},
 {"type":"Feature","properties":{"Name":"Huajuapan de León"},"geometry":{"coordinates":[-109.927516,27.4975673],"type":"Point"},"id":7},
-{"type":"Feature","properties":{"Name":"Palenque"},"geometry":{"coordinates":[-107.4782676,24.7809816],"type":"Point"},"id":5}]}
+{"type":"Feature","properties":{"Name":"Palenque"},"geometry":{"coordinates":[-107.4782676,24.7809816],"type":"Point"},"id":5},{"type":"Feature","properties":{"Name":"Colima"},"geometry":{"coordinates":[-97.7826924,17.7957056],"type":"Point"},"id":18},
+{"type":"Feature","properties":{"Name":"Poza Rica"},"geometry":{"coordinates":[-92.0311831,17.5791986],"type":"Point"},"id":17},
+{"type":"Feature","properties":{"Name":"Orizaba"},"geometry":{"coordinates":[-89.6637478,20.940101],"type":"Point"},"id":30},
+{"type":"Feature","properties":{"Name":"Pta. Torreón"},"geometry":{"coordinates":[-100.952868,22.1342857],"type":"Point"},"id":19}]}

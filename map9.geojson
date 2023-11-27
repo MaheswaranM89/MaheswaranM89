@@ -81,19 +81,4 @@
 {"type":"Feature","properties":{"Name":"Chetumal"},"geometry":{"coordinates":[-102.5400277,20.3150522],"type":"Point"},"id":15},
 {"type":"Feature","properties":{"Name":"Los Mochis (FFCC)"},"geometry":{"coordinates":[-90.6625519,20.9420312],"type":"Point"},"id":32},
 {"type":"Feature","properties":{"Name":"Lázaro Cárdenas"},"geometry":{"coordinates":[-100.952868,22.1342857],"type":"Point"},"id":29},{
-"type":"Feature","properties":{"Name":"Valles"},"geometry":{"coordinates":[-101.6677696,21.0853949],"type":"Point"},"id":20},
-{"type":"Feature","properties":{"Name":"Aguascalientes"},"geometry":{"coordinates":[-99.6867558,20.3832951],"type":"Point"},"id":19},
-{"type":"Feature","properties":{"Name":"Pinotepa Nacional"},"geometry":{"coordinates":[-109.9491186,22.9102034],"type":"Point"},"id":8},
-{"type":"Feature","properties":{"Name":"CD Flamboyanes"},"geometry":{"coordinates":[-95.2278645,16.2835878],"type":"Point"},"id":18},
-{"type":"Feature","properties":{"Name":"Nueva Italia"},"geometry":{"coordinates":[-99.207077,19.3839619],"type":"Point"},"id":0},
-{"type":"Feature","properties":{"Name":"Hermosillo"},"geometry":{"coordinates":[-99.6867558,20.3832951],"type":"Point"},"id":25},
-{"type":"Feature","properties":{"Name":"Torreón"},"geometry":{"coordinates":[-99.6577733,19.3295855],"type":"Point"},"id":2},
-{"type":"Feature","properties":{"Name":"Campeche"},"geometry":{"coordinates":[-94.4201366,18.1390408],"type":"Point"},"id":17},
-{"type":"Feature","properties":{"Name":"Roberto Ayala"},"geometry":{"coordinates":[-98.866824,22.046562],"type":"Point"},"id":25},
-{"type":"Feature","properties":{"Name":"Puerto Chiapas"},"geometry":{"coordinates":[-102.7498829,20.8210431],"type":"Point"},"id":15},
-{"type":"Feature","properties":{"Name":"Pta. Hidalgo"},"geometry":{"coordinates":[-97.957465,18.968469],"type":"Point"},"id":33},
-{"type":"Feature","properties":{"Name":"CD Seybaplaya"},"geometry":{"coordinates":[-98.6098794,17.5402729],"type":"Point"},"id":2},
-{"type":"Feature","properties":{"Name":"Puerto Valladolid"},"geometry":{"coordinates":[-104.3918269,21.0371963],"type":"Point"},"id":13},
-{"type":"Feature","properties":{"Name":"Nochixtlán"},"geometry":{"coordinates":[-100.8012781,20.5515138],"type":"Point"},"id":19},
-{"type":"Feature","properties":{"Name":"Nogales (FFCC)"},"geometry":{"coordinates":[-97.957465,18.968469],"type":"Point"},"id":4},
-{"type":"Feature","properties":{"Name":"Fresnillo"},"geometry":{"coordinates":[-99.214166,20.0006029],"type":"Point"},"id":0}]}
+"type":"Feature","properties":{"Name":"Valles"},"geometry":{"coordinates":[-101.6677696,21.0853949],"type":"Point"},"id":20}]}

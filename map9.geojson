@@ -62,23 +62,4 @@
 "type":"Feature","properties":{"Name":"Tepic"},"geometry":{"coordinates":[-103.3781524,19.6712659],"type":"Point"},"id":12},
 {"type":"Feature","properties":{"Name":"Acapulco"},"geometry":{"coordinates":[-101.130216,19.736456],"type":"Point"},"id":14},
 {"type":"Feature","properties":{"Name":"Mazatlán"},"geometry":{"coordinates":[-97.4002256,18.451439],"type":"Point"},"id":18},
-{"type":"Feature","properties":{"Name":"Ixtlán del Río"},"geometry":{"coordinates":[-92.9866003,17.9876086],"type":"Point"},"id":17},
-{"type":"Feature","properties":{"Name":"León"},"geometry":{"coordinates":[-109.0612423,25.5872003],"type":"Point"},"id":5},
-{"type":"Feature","properties":{"Name":"Salamanca"},"geometry":{"coordinates":[-115.3977517,32.5858504],"type":"Point"},"id":6},
-{"type":"Feature","properties":{"Name":"Zacatecas"},"geometry":{"coordinates":[-99.237198,19.4650212],"type":"Point"},"id":0},{
-"type":"Feature","properties":{"Name":"La Barca"},"geometry":{"coordinates":[-98.7174406,20.084777],"type":"Point"},"id":25},
-{"type":"Feature","properties":{"Name":"Mérida"},"geometry":{"coordinates":[-104.8765058,21.4875365],"type":"Point"},"id":13},
-{"type":"Feature","properties":{"Name":"Los Cabos"},"geometry":{"coordinates":[-101.0142062,25.4199217],"type":"Point"},"id":27},
-{"type":"Feature","properties":{"Name":"Tehuantepec"},"geometry":{"coordinates":[-103.3999332,25.4908844],"type":"Point"},"id":28},{"type":"Feature","properties":{"Name":"Cidetec"},"geometry":{"coordinates":[-99.7999423,16.8524745],"type":"Point"},"id":2},
-{"type":"Feature","properties":{"Name":"Tepatitlán"},"geometry":{"coordinates":[-106.4038455,23.2169306],"type":"Point"},"id":5},{
-"type":"Feature","properties":{"Name":"Celaya"},"geometry":{"coordinates":[-94.4201366,18.1390408],"type":"Point"},"id":31},
-{"type":"Feature","properties":{"Name":"Reynosa"},"geometry":{"coordinates":[-104.3918269,21.0371963],"type":"Point"},"id":15},
-{"type":"Feature","properties":{"Name":"Guasave"},"geometry":{"coordinates":[-94.4201366,18.1390408],"type":"Point"},"id":33},
-{"type":"Feature","properties":{"Name":"Cd. Victoria"},"geometry":{"coordinates":[-101.6677696,21.0853949],"type":"Point"},"id":19},
-{"type":"Feature","properties":{"Name":"Pta. Barrientos"},"geometry":{"coordinates":[-101.081426,20.528622],"type":"Point"},"id":14},
-{"type":"Feature","properties":{"Name":"Arriaga"},"geometry":{"coordinates":[-102.4912981,22.651866],"type":"Point"},"id":9},
-{"type":"Feature","properties":{"Name":"Pta. Valles"},"geometry":{"coordinates":[-99.214166,20.0006029],"type":"Point"},"id":25},
-{"type":"Feature","properties":{"Name":"Chetumal"},"geometry":{"coordinates":[-102.5400277,20.3150522],"type":"Point"},"id":15},
-{"type":"Feature","properties":{"Name":"Los Mochis (FFCC)"},"geometry":{"coordinates":[-90.6625519,20.9420312],"type":"Point"},"id":32},
-{"type":"Feature","properties":{"Name":"Lázaro Cárdenas"},"geometry":{"coordinates":[-100.952868,22.1342857],"type":"Point"},"id":29},{
-"type":"Feature","properties":{"Name":"Valles"},"geometry":{"coordinates":[-101.6677696,21.0853949],"type":"Point"},"id":20}]}
+{"type":"Feature","properties":{"Name":"Ixtlán del Río"},"geometry":{"coordinates":[-92.9866003,17.9876086],"type":"Point"},"id":17}]}

@@ -38,4 +38,10 @@
 {"type":"Feature","properties":{"Name":"Pta. Huichapan"},"geometry":{"coordinates":[-100.293133,20.572046],"type":"Point"},"id":21},
 {"type":"Feature","properties":{"Name":"Tuxtla Gutiérrez"},"geometry":{"coordinates":[-97.957465,18.968469],"type":"Point"},"id":24},
 {"type":"Feature","properties":{"Name":"San Cristóbal"},"geometry":{"coordinates":[-99.6867558,20.3832951],"type":"Point"},"id":21},
-{"type":"Feature","properties":{"Name":"Chilpancingo"},"geometry":{"coordinates":[-93.1791069,16.7602046],"type":"Point"},"id":16}]}
+{"type":"Feature","properties":{"Name":"Chilpancingo"},"geometry":{"coordinates":[-93.1791069,16.7602046],"type":"Point"},"id":16},{"type":"Feature","properties":{"Name":"Promexma Texcoco"},"geometry":{"coordinates":[-92.6595572,16.7424254],"type":"Point"},"id":16},
+{"type":"Feature","properties":{"Name":"Cuernavaca"},"geometry":{"coordinates":[-99.478333,17.5112949],"type":"Point"},"id":2},
+{"type":"Feature","properties":{"Name":"Pta. Atotonilco"},"geometry":{"coordinates":[-98.89814,19.525562],"type":"Point"},"id":0},
+{"type":"Feature","properties":{"Name":"Cd. Obregón (FFCC)"},"geometry":{"coordinates":[-99.1718954,18.9138315],"type":"Point"},"id":4},
+{"type":"Feature","properties":{"Name":"Culiacán"},"geometry":{"coordinates":[-99.214166,20.0006029],"type":"Point"},"id":15},
+{"type":"Feature","properties":{"Name":"Huajuapan de León"},"geometry":{"coordinates":[-109.927516,27.4975673],"type":"Point"},"id":7},
+{"type":"Feature","properties":{"Name":"Palenque"},"geometry":{"coordinates":[-107.4782676,24.7809816],"type":"Point"},"id":5}]}

@@ -47,4 +47,26 @@
 {"type":"Feature","properties":{"Name":"Palenque"},"geometry":{"coordinates":[-107.4782676,24.7809816],"type":"Point"},"id":5},{"type":"Feature","properties":{"Name":"Colima"},"geometry":{"coordinates":[-97.7826924,17.7957056],"type":"Point"},"id":18},
 {"type":"Feature","properties":{"Name":"Poza Rica"},"geometry":{"coordinates":[-92.0311831,17.5791986],"type":"Point"},"id":17},
 {"type":"Feature","properties":{"Name":"Orizaba"},"geometry":{"coordinates":[-89.6637478,20.940101],"type":"Point"},"id":30},
-{"type":"Feature","properties":{"Name":"Pta. Torreón"},"geometry":{"coordinates":[-100.952868,22.1342857],"type":"Point"},"id":19}]}
+{"type":"Feature","properties":{"Name":"Pta. Torreón"},"geometry":{"coordinates":[-100.952868,22.1342857],"type":"Point"},"id":19},
+{"type":"Feature","properties":{"Name":"El Prieto Ver."},"geometry":{"coordinates":[-96.1648146,18.0351038],"type":"Point"},"id":33},
+{"type":"Feature","properties":{"Name":"Pta. Monterrey"},"geometry":{"coordinates":[-103.7216514,19.2293612],"type":"Point"},"id":12},
+{"type":"Feature","properties":{"Name":"Jalapa"},"geometry":{"coordinates":[-97.4074316,20.6361106],"type":"Point"},"id":34},
+{"type":"Feature","properties":{"Name":"Ceda"},"geometry":{"coordinates":[-97.1049352,18.8380153],"type":"Point"},"id":33},{
+"type":"Feature","properties":{"Name":"Tapachula"},"geometry":{"coordinates":[-103.3999332,25.4908844],"type":"Point"},"id":10},
+{"type":"Feature","properties":{"Name":"Morelia"},"geometry":{"coordinates":[-97.9200129,22.2212026],"type":"Point"},"id":29},
+{"type":"Feature","properties":{"Name":"Villahermosa"},"geometry":{"coordinates":[-100.2992515,25.700466],"type":"Point"},"id":27},
+{"type":"Feature","properties":{"Name":"Topolobampo"},"geometry":{"coordinates":[-96.8606982,19.5019657],"type":"Point"},"id":33},
+{"type":"Feature","properties":{"Name":"Mexicali"},"geometry":{"coordinates":[-99.0784081,19.3755534],"type":"Point"},"id":0},
+{"type":"Feature","properties":{"Name":"Naucalpan"},"geometry":{"coordinates":[-97.9200129,22.2212026],"type":"Point"},"id":34},
+{"type":"Feature","properties":{"Name":"Pachuca"},"geometry":{"coordinates":[-92.2918554,14.8654245],"type":"Point"},"id":16},{
+"type":"Feature","properties":{"Name":"Tepic"},"geometry":{"coordinates":[-103.3781524,19.6712659],"type":"Point"},"id":12},
+{"type":"Feature","properties":{"Name":"Acapulco"},"geometry":{"coordinates":[-101.130216,19.736456],"type":"Point"},"id":14},
+{"type":"Feature","properties":{"Name":"Mazatlán"},"geometry":{"coordinates":[-97.4002256,18.451439],"type":"Point"},"id":18},
+{"type":"Feature","properties":{"Name":"Ixtlán del Río"},"geometry":{"coordinates":[-92.9866003,17.9876086],"type":"Point"},"id":17},
+{"type":"Feature","properties":{"Name":"León"},"geometry":{"coordinates":[-109.0612423,25.5872003],"type":"Point"},"id":5},
+{"type":"Feature","properties":{"Name":"Salamanca"},"geometry":{"coordinates":[-115.3977517,32.5858504],"type":"Point"},"id":6},
+{"type":"Feature","properties":{"Name":"Zacatecas"},"geometry":{"coordinates":[-99.237198,19.4650212],"type":"Point"},"id":0},{
+"type":"Feature","properties":{"Name":"La Barca"},"geometry":{"coordinates":[-98.7174406,20.084777],"type":"Point"},"id":25},
+{"type":"Feature","properties":{"Name":"Mérida"},"geometry":{"coordinates":[-104.8765058,21.4875365],"type":"Point"},"id":13},
+{"type":"Feature","properties":{"Name":"Los Cabos"},"geometry":{"coordinates":[-101.0142062,25.4199217],"type":"Point"},"id":27},
+{"type":"Feature","properties":{"Name":"Tehuantepec"},"geometry":{"coordinates":[-103.3999332,25.4908844],"type":"Point"},"id":28}]}

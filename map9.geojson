@@ -79,4 +79,7 @@
 {"type":"Feature","properties":{"Name":"Pta. Barrientos"},"geometry":{"coordinates":[-101.081426,20.528622],"type":"Point"},"id":14},
 {"type":"Feature","properties":{"Name":"Arriaga"},"geometry":{"coordinates":[-102.4912981,22.651866],"type":"Point"},"id":9},
 {"type":"Feature","properties":{"Name":"Pta. Valles"},"geometry":{"coordinates":[-99.214166,20.0006029],"type":"Point"},"id":25},
-{"type":"Feature","properties":{"Name":"Chetumal"},"geometry":{"coordinates":[-102.5400277,20.3150522],"type":"Point"},"id":15}]}
+{"type":"Feature","properties":{"Name":"Chetumal"},"geometry":{"coordinates":[-102.5400277,20.3150522],"type":"Point"},"id":15},
+{"type":"Feature","properties":{"Name":"Los Mochis (FFCC)"},"geometry":{"coordinates":[-90.6625519,20.9420312],"type":"Point"},"id":32},
+{"type":"Feature","properties":{"Name":"Lázaro Cárdenas"},"geometry":{"coordinates":[-100.952868,22.1342857],"type":"Point"},"id":29},
+{"type":"Feature","properties":{"Name":"Valles"},"geometry":{"coordinates":[-101.6677696,21.0853949],"type":"Point"},"id":20}]}
